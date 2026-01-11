@@ -4,7 +4,7 @@
 
 **`Dev. backEnd`**
 
-Olá, sou Samuel Menezes Dias, tenho 20 anos e sou natural de Brasília, DF. Conclui no SENAI - SIG - Brasilia, DF o curso de Desenvolvimento de Sistemas. Estou cursando (ADS) -  Análise e Desenvolvimento de Sistemas na Estácio. Sempre procurando aprender mais e me aprofundar em novas tecnologias. Procuro por oportunidades no mercado de trabalho, e assim poder oferecer, e aprender mais! 
+Olá, sou Samuel Menezes Dias, tenho 21 anos e sou natural de Brasília, DF. Conclui no SENAI - SIG - Brasilia, DF o curso de Desenvolvimento de Sistemas. Estou cursando (ADS) -  Análise e Desenvolvimento de Sistemas na Estácio. Sempre procurando aprender mais e me aprofundar em novas tecnologias. Procuro por oportunidades no mercado de trabalho, e assim poder oferecer, e aprender mais! 
 
 <dev align = "left">
 
