@@ -128,6 +128,6 @@ align="left"
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samucaWU&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samucaWU&theme=tokyonight&layout=compact&langs_count=9" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamucaWU&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamucaWU&theme=tokyonight&layout=compact&langs_count=9" alt="Top Languages" height="180">
 </p>
