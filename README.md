@@ -12,11 +12,10 @@
   no mercado de trabalho para oferecer valor e continuar aprendendo!
 </p>
 
-### Tech Stack
 
-<p></p>
+## **Tech Stack**
 
-### BackEnd
+### **BackEnd**
 
 <img
     align="left"
@@ -32,7 +31,6 @@ align="left"
     title="Java"
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-
     
   <img 
     align="left" 
@@ -43,9 +41,9 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<p></p>
+<br/>
 
-### FrontEnd
+### **FrontEnd**
 
 <img 
     align="left" 
@@ -65,9 +63,10 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-<p></p>
+<br/>
 
-### Tools
+### **Tools**
+
 <img 
     align="left" 
     alt="Git" 
@@ -93,12 +92,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
     style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
 
+<img
+align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
+
 <br/>
 <br/>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SamucaWU&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180">
