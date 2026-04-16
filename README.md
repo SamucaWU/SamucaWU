@@ -104,8 +104,6 @@ align="left"
 <br/>
 <br/>
 
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
