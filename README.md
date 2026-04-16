@@ -41,8 +41,6 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
----
-
 ### FrontEnd
 
 <img 
@@ -62,8 +60,6 @@ align="left"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
----
 
 ### Tools
 <img 
@@ -90,8 +86,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
     width="30px" 
     style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
-
----
 
 <br/>
 <br/>
